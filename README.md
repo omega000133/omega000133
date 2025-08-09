@@ -1,6 +1,6 @@
 # 👋 Hello, there! <br />
 
-I am a passionate Full Stack and Blockchain Developer with 7 years of software engineering experiences.<br />
+I am a passionate Full-Stack and Blockchain Developer with 8 years of software engineering experiences.<br />
 
 
 ## Favorite Saying 👍
