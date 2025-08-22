@@ -57,8 +57,8 @@ fn main() {
         <br>Angular
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-        <br>Three.js
+        <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" alt="Haskell" />
+        <br>Haskell
       </td>
     </tr>
     <tr>
