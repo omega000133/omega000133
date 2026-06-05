@@ -1,6 +1,6 @@
 # 👋 Hello, there! <br />
 
-I am a passionate **Blockchain Infrastructure & AI Agent Engineer** with 9+ years of software engineering experience — building smart contracts, RWA tokenization platforms, wallet infrastructure, and autonomous AI agents across Ethereum, Solana, Canton, Stellar, and EVM ecosystems.<br />
+I am a passionate **Blockchain Infrastructure & AI Agent Engineer** with 9+ years of software engineering experience — building smart contracts, RWA tokenization platforms, wallet infrastructure, and autonomous AI agents across Ethereum, Solana, Canton, Bittensor, Stellar, and EVM ecosystems.<br />
 
 
 ## Favorite Saying 👍
