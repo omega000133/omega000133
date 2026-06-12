@@ -1,6 +1,6 @@
 # 👋 Hello, there! <br />
 
-I am a passionate **Blockchain Infrastructure & AI Agent Engineer** with 9+ years of software engineering experience — building smart contracts, RWA tokenization platforms, wallet infrastructure, and autonomous AI agents across Ethereum, Solana, Canton, Bittensor, Stellar, and EVM ecosystems.<br />
+I am a passionate **Blockchain Infrastructure & AI Agent Engineer** with 9+ years of software engineering experience — building smart contracts, RWA tokenization platforms, wallet infrastructure, and autonomous AI agents across Ethereum, Solana, Canton, Algorand, Bittensor, Stellar, and EVM ecosystems.<br />
 
 
 ## Favorite Saying 👍
@@ -172,7 +172,7 @@ fn main() {
 
 ## 🔗 What I Build
 
-- 🪙 **Smart Contracts & Tokenization** — Solidity, Rust, Move & DAML across Ethereum, Solana, Canton & Stellar
+- 🪙 **Smart Contracts & Tokenization** — Solidity, Rust, Move & DAML across Ethereum, Solana, Canton, Algorand & Stellar
 - 🏦 **RWA & Digital Assets** — compliant issuance, settlement, and lifecycle management of tokenized real-world assets
 - 🤖 **Autonomous AI Agents** — agentic workflows powered by LLMs, RAG, **MCP**, and **x402** machine-to-machine payments
 - 🔐 **Wallet Infrastructure** — account abstraction (**ERC-4337**), multi-sig, smart accounts & secure custody
